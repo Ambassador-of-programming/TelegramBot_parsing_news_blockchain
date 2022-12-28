@@ -6,7 +6,7 @@ from config.telegram_token import TOKEN
 
 
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
-name_channel = '@AR022BOT'  # здесь указывается группа
+name_channel = '@здесь название канала'  # здесь указывается группа
 
 HOST = "https://www.block-chain24.com"
 URL = "https://www.block-chain24.com/news/novosti-kriptovalyutnyh-birzh"
